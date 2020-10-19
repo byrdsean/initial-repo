@@ -1,5 +1,3 @@
-<<<<<<< HEAD
 Instruction set for using this repo.
 =======
 Instructions for using this repository.
->>>>>>> e18894895196c5efb2edd4613dacb138b4131166
